@@ -7,7 +7,7 @@
 Для установки и работы с приложением достаточно запустить файл *TraderDiary/bin/Debug/TraderDiary.exe*
 ## Использование
 ### **Главное окно**
-![](https://github.com/AlexSkvorz/TraderDiary/tree/main/ScreensForREADME/First.png)
+![](https://github.com/AlexSkvorz/TraderDiary/blob/main/ScreensForREADME/First.png)
 На главном окне мы можем выбрать два варианта:
 
 **1. Выбрать файл**
@@ -20,13 +20,13 @@
     * Цена закрытия (число)
     * Комиссия (число)
     * Комментарий (по желанию)
-![](https://github.com/AlexSkvorz/TraderDiary/tree/main/ScreensForREADME/Second.png)
+![](https://github.com/AlexSkvorz/TraderDiary/blob/main/ScreensForREADME/Second.png)
 - В случае, если файл не соответствует шаблону, программа сообщит об этом и попросит выбрать другой. 
 - В случае, если файл не выбран, переходим ко второму пункту
 
 **2. Продолжить**
 - Нажимая продолжить без выбора файла/отмены выбора программа сообщит о том, что в таком случае будет выбран файл *TraderDairy.txt*, находящийся в корне проекта и запустит второе окно.
-![](https://github.com/AlexSkvorz/TraderDiary/tree/main/ScreensForREADME/Third.png)
+![](https://github.com/AlexSkvorz/TraderDiary/blob/main/ScreensForREADME/Third.png)
 
 ### Дневник
 trst
