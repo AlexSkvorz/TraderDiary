@@ -79,7 +79,7 @@
 
 ![](https://github.com/AlexSkvorz/TraderDiary/blob/main/ScreensForREADME/Eleventh.png)
 
-    *В случае, если за указанный период сделки есть - пользователь получает сообщение с указанным именем файла и папки, куда он сохраняется (/Отчёты).
++ В случае, если за указанный период сделки есть - пользователь получает сообщение с указанным именем файла и папки, куда он сохраняется (/Отчёты).
 
 ![](https://github.com/AlexSkvorz/TraderDiary/blob/main/ScreensForREADME/Twelfth.png)
 
