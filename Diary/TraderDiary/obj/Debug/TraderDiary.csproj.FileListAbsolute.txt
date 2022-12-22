@@ -1,0 +1,51 @@
+D:\Лабы C#\TraderDiary\TraderDiary\bin\Debug\TraderDiary.exe.config
+D:\Лабы C#\TraderDiary\TraderDiary\bin\Debug\TraderDiary.exe
+D:\Лабы C#\TraderDiary\TraderDiary\bin\Debug\TraderDiary.pdb
+D:\Лабы C#\TraderDiary\TraderDiary\obj\Debug\TraderDiary.csproj.AssemblyReference.cache
+D:\Лабы C#\TraderDiary\TraderDiary\obj\Debug\TraderDiary.csproj.SuggestedBindingRedirects.cache
+D:\Лабы C#\TraderDiary\TraderDiary\obj\Debug\App.g.cs
+D:\Лабы C#\TraderDiary\TraderDiary\obj\Debug\TraderDiary_MarkupCompile.cache
+D:\Лабы C#\TraderDiary\TraderDiary\obj\Debug\TraderDiary_MarkupCompile.lref
+D:\Лабы C#\TraderDiary\TraderDiary\obj\Debug\TraderDiary.g.resources
+D:\Лабы C#\TraderDiary\TraderDiary\obj\Debug\TraderDiary.Properties.Resources.resources
+D:\Лабы C#\TraderDiary\TraderDiary\obj\Debug\TraderDiary.csproj.GenerateResource.cache
+D:\Лабы C#\TraderDiary\TraderDiary\obj\Debug\TraderDiary.csproj.CoreCompileInputs.cache
+D:\Лабы C#\TraderDiary\TraderDiary\obj\Debug\TraderDiary.exe
+D:\Лабы C#\TraderDiary\TraderDiary\obj\Debug\TraderDiary.pdb
+D:\Лабы C#\TraderDiary\TraderDiary\obj\Debug\LogDiary.g.cs
+D:\Лабы C#\TraderDiary\TraderDiary\obj\Debug\LogDiary.baml
+D:\Лабы C#\TraderDiary\TraderDiary\bin\Debug\images\Logo.gif
+D:\Лабы C#\TraderDiary\TraderDiary\obj\Debug\TraderDiary_Content.g.cs
+D:\Лабы C#\TraderDiary\TraderDiary\obj\Debug\AddTransaction.g.cs
+D:\Лабы C#\TraderDiary\TraderDiary\obj\Debug\Diary.g.cs
+D:\Лабы C#\TraderDiary\TraderDiary\obj\Debug\AddTransaction.baml
+D:\Лабы C#\TraderDiary\TraderDiary\obj\Debug\Diary.baml
+D:\Лабы C#\TraderDiary\TraderDiary\obj\Debug\Statistic.g.cs
+D:\Лабы C#\TraderDiary\TraderDiary\obj\Debug\Statistic.baml
+E:\TraderDiary\TraderDiary\bin\Debug\images\Logo.gif
+E:\TraderDiary\TraderDiary\bin\Debug\TraderDiary.exe.config
+E:\TraderDiary\TraderDiary\bin\Debug\TraderDiary.exe
+E:\TraderDiary\TraderDiary\bin\Debug\TraderDiary.pdb
+E:\TraderDiary\TraderDiary\obj\Debug\TraderDiary.csproj.AssemblyReference.cache
+E:\TraderDiary\TraderDiary\obj\Debug\TraderDiary.csproj.SuggestedBindingRedirects.cache
+E:\TraderDiary\TraderDiary\obj\Debug\AddTransaction.g.cs
+E:\TraderDiary\TraderDiary\obj\Debug\Diary.g.cs
+E:\TraderDiary\TraderDiary\obj\Debug\LogDiary.g.cs
+E:\TraderDiary\TraderDiary\obj\Debug\Statistic.g.cs
+E:\TraderDiary\TraderDiary\obj\Debug\App.g.cs
+E:\TraderDiary\TraderDiary\obj\Debug\TraderDiary_Content.g.cs
+E:\TraderDiary\TraderDiary\obj\Debug\TraderDiary_MarkupCompile.cache
+E:\TraderDiary\TraderDiary\obj\Debug\TraderDiary_MarkupCompile.lref
+E:\TraderDiary\TraderDiary\obj\Debug\AddTransaction.baml
+E:\TraderDiary\TraderDiary\obj\Debug\Diary.baml
+E:\TraderDiary\TraderDiary\obj\Debug\LogDiary.baml
+E:\TraderDiary\TraderDiary\obj\Debug\Statistic.baml
+E:\TraderDiary\TraderDiary\obj\Debug\TraderDiary.g.resources
+E:\TraderDiary\TraderDiary\obj\Debug\TraderDiary.Properties.Resources.resources
+E:\TraderDiary\TraderDiary\obj\Debug\TraderDiary.csproj.GenerateResource.cache
+E:\TraderDiary\TraderDiary\obj\Debug\TraderDiary.csproj.CoreCompileInputs.cache
+E:\TraderDiary\TraderDiary\obj\Debug\TraderDiary.exe
+E:\TraderDiary\TraderDiary\obj\Debug\TraderDiary.pdb
+D:\Лабы C#\TraderDiary\TraderDiary\bin\Debug\DairyLibrary.dll
+D:\Лабы C#\TraderDiary\TraderDiary\bin\Debug\DairyLibrary.pdb
+D:\Лабы C#\TraderDiary\TraderDiary\obj\Debug\TraderDiary.csproj.CopyComplete

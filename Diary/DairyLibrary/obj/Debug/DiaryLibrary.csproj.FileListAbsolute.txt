@@ -1,0 +1,6 @@
+D:\Лабы C#\TraderDiary\DairyLibrary\bin\Debug\DairyLibrary.dll
+D:\Лабы C#\TraderDiary\DairyLibrary\bin\Debug\DairyLibrary.pdb
+D:\Лабы C#\TraderDiary\DairyLibrary\obj\Debug\DiaryLibrary.csproj.CoreCompileInputs.cache
+D:\Лабы C#\TraderDiary\DairyLibrary\obj\Debug\DairyLibrary.dll
+D:\Лабы C#\TraderDiary\DairyLibrary\obj\Debug\DairyLibrary.pdb
+D:\Лабы C#\TraderDiary\DairyLibrary\obj\Debug\DiaryLibrary.csproj.AssemblyReference.cache

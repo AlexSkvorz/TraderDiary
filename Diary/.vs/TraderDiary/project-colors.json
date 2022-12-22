@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0add4a16-734a-4b0a-b598-8dae1771a3d9": {
+      "ProjectGuid": "0add4a16-734a-4b0a-b598-8dae1771a3d9",
+      "DisplayName": "TraderDiary",
+      "ColorIndex": 0
+    },
+    "64210bda-cc8e-4771-82a1-329911c0a846": {
+      "ProjectGuid": "64210bda-cc8e-4771-82a1-329911c0a846",
+      "DisplayName": "DiaryLibrary",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
