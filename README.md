@@ -20,6 +20,7 @@
     * Цена закрытия (число)
     * Комиссия (число)
     * Комментарий (по желанию)
+
 ![](https://github.com/AlexSkvorz/TraderDiary/blob/main/ScreensForREADME/Second.png)
 - В случае, если файл не соответствует шаблону, программа сообщит об этом и попросит выбрать другой. 
 - В случае, если файл не выбран, переходим ко второму пункту
@@ -29,4 +30,29 @@
 ![](https://github.com/AlexSkvorz/TraderDiary/blob/main/ScreensForREADME/Third.png)
 
 ### Дневник
-trst
+![](https://github.com/AlexSkvorz/TraderDiary/blob/main/ScreensForREADME/Fourth.png)
+
+Транзакции в дневнике отсортированы по датам сделок. Столбец ROE высчитывается автоматически на основе введённых данных.
+Дневник имеет пять основных функций:
+
+**1. Добавить файл**
+
+![](https://github.com/AlexSkvorz/TraderDiary/blob/main/ScreensForREADME/Fifth.png)
+
+    * Чтобы добавить новую сделку необходимо ввести свои данные на основе примера, в случае, если одно из полей (кроме комментария) не заполнено - программа попросит заполнить его. Также, если поля заполнены неверно * пользователь будет проинформирован. Например:
+
+![](https://github.com/AlexSkvorz/TraderDiary/blob/main/ScreensForREADME/Sixth.png)
+
+После добавления новой сделки таблица автоматически отсортируется и рассчитается ROE.
+
+**2. Изменить**
+
+![](https://github.com/AlexSkvorz/TraderDiary/blob/main/ScreensForREADME/Seventh.png)
+
+    *При нажатии правой кнопки по *выделенной!* строке, откроется контекстное меню с возможностью изменить данные выбранной сделки. Окно изменения данных аналогично добавлению, за исключением того, что имеющиеся *данные уже заполнены. 
+
+![](https://github.com/AlexSkvorz/TraderDiary/blob/main/ScreensForREADME/Eighth.png)
+
+**3. Удалить**
+
+![]
